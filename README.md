@@ -1,5 +1,5 @@
 # Ping_Pong
-## Download smb_browserfalls.wav, smb_jump-small.wav, smb_pause.wav   
+## Download smb_browserfalls.wav, smb_jump-small.wav, smb_pause.wav, background_sky_point_83482_800x600.jpg, Metropolis-Medium.ttf    
 ## Copy the code from Main_code.py
 ## Install pygame on your device
 ## Paste the code on apps which runs python
